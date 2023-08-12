@@ -1,15 +1,11 @@
         /* 4.1 */
-        .lesson-four-task-one:hover  {
-            background: yellow;
-        }
-        
-
-        .btn:hover {
+        .lesson-four-task-one .btn:hover {
+            background:yellow;
             color: red;
         }
         /* 4.2 */
 
-        .lesson-four-task-two .title:hover{
+        .lesson-four-task-two .link:hover + .title {
             background: green;
         }
         /* 4.3 */
@@ -78,11 +74,11 @@
             background-color: red;
         }
         /* 4.16 */
-        .lesson-four-task-sixteen input:out-of-range{
-            background: red;
+        .lesson-four-task-sixteen input:out-of-range {
+            background-color: red;
         }
         /* 4.17 */
-        .lesson-four-task-seventeen input:in-range{
+        .lesson-four-task-seventeen input:in-range {
             background: red;
         }
         /* 4.18 */
